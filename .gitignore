@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# macOS metadata
+.DS_Store
+
+# Pygame / build artifacts
+*.log
+
+# Optional: If you have an IDE-specific folder
+.vscode/
+.idea/
